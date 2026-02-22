@@ -148,6 +148,6 @@ Open `7.Tableau_Visualization/Depression_Network_Analysis.twb` in Tableau Deskto
 
 ---
 
-##Ethics Note
+## Ethics Note
 
 This project is academic in nature and intended to support mental health research. The dataset used contains anonymized user data collected under informed consent for research purposes. Depression risk scores produced by this model are **not diagnostic** and should not replace professional clinical assessment.
