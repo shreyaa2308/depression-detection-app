@@ -1,5 +1,5 @@
 # Depression Detection Using Social Network Text Analysis
-Detecting user-level depression risk using Big Five personality traits, NLP-based speech act classification, and graph-based social influence modeling — trained on real Facebook data.
+Detecting user-level depression risk using Big Five personality traits, NLP-based speech act classification, and graph-based social influence modeling trained on real Facebook data.
 
 **[Live Demo →](https://depression-detection-application.streamlit.app/)** 
 
